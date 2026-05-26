@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <a href="https://spondanai.github.io/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-1e1e1e?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="portfolio" />
+  </a>
+  &nbsp;
   <a href="https://github.com/spondanai">
     <img src="https://komarev.com/ghpvc/?username=spondanai&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
