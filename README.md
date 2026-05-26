@@ -45,16 +45,6 @@
 
 ---
 
-## 🚀 Featured Project
-
-<a href="https://github.com/spondanai/discord-clipper-bot-showcase">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=spondanai&repo=discord-clipper-bot-showcase&theme=tokyonight&hide_border=true" />
-</a>
-
-> Production Discord bot + REST API platform — tiered CPM payout engine, multi-platform view tracking (TikTok / YouTube), atomic withdraw flow · **Go · Fiber · PostgreSQL · Clean Architecture**
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
