@@ -93,16 +93,6 @@ func main() {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=spondanai&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" />
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
